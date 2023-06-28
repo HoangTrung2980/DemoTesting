@@ -1,0 +1,8 @@
+#surefire_0
+#Tue Jun 20 20:45:25 ICT 2023
+basedir=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting
+test=controllers.StaffManagerTest
+file.encoding=UTF-8
+user.dir=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting
+maven.ext.class.path=C\:\\Program Files\\NetBeans-17\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+localRepository=C\:\\Users\\trand\\.m2\\repository

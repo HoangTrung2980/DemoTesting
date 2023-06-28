@@ -1,0 +1,24 @@
+#surefire
+#Tue Jun 20 20:45:25 ICT 2023
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\src\\test\\java
+specificTest0=**/controllers/StaffManagerTest.java
+runOrder=filesystem
+runStatisticsFile=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\.surefire-B44ACDC56D77BFA4136A44F1878152C909455CA2
+includes0=**/controllers/StaffManagerTest.java
+reportsDirectory=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\target\\surefire-reports
+tc.0=controllers.StaffManagerTest
+surefireClassPathUrl.0=C\:\\Users\\trand\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+classPathUrl.1=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\target\\classes
+failIfNoTests=true
+classPathUrl.2=C\:\\Users\\trand\\.m2\\repository\\junit\\junit\\4.13.2\\junit-4.13.2.jar
+requestedTest=controllers.StaffManagerTest,
+classPathUrl.3=C\:\\Users\\trand\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=C\:\\Users\\trand\\OneDrive\\Documents\\NetBeansProjects\\DemoTesting\\target\\test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\trand\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true
